@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗     ███████╗ ██████╗ ██████╗ ███████╗████████╗
-██╔══██╗██║     ██╔════╝██╔════╝██╔═══██╗██╔════╝╚══██╔══╝
-██████╔╝██║     █████╗  ██║     ██║   ██║███████╗   ██║
-██╔═══╝ ██║     ██╔══╝  ██║     ██║   ██║╚════██║   ██║
-██║     ███████╗███████╗╚██████╗╚██████╔╝███████║   ██║
-╚═╝     ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝
-```
-
-### Professional WordPress Security Scanner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=220&text=PLECOST&fontColor=58a6ff&fontSize=72&fontAlignY=40&desc=Professional%20WordPress%20Security%20Scanner&descColor=8b949e&descSize=20&descAlignY=65" width="100%"/>
 
 **Fully async · Zero-interaction · Built for professionals**
 
